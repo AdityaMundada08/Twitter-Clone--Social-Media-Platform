@@ -3,9 +3,9 @@ Developing and designing a web based platform where the users will be able to po
 The project comes under the category of Full Stack Developer.
 
 ## Project Status
-This project is currently in development.
+This project is currently in development. Some files are added which are completed and tested.
 
 ##Reflection
 This project is currently under development and is 8 weeks old. Project goals include using technologies learned up until this point in my most recent internship (in IBM) and familiarizing myself with documentation for new features.
 
-###Edit: The files will be uploaded shortly.
+###Edit: The remaining files will be uploaded shortly.
